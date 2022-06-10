@@ -1,6 +1,7 @@
 -  Hi, I’m Damian! 👋
 
-- :briefcase: my portfolio: www...
+
+
  
 - :es: :de: :gb: I speak Spanish, Catalan, English, Italian, German and I am currently learning Arabic and Swahili
 - :green_book: :blue_book: :notebook_with_decorative_cover: I studied history, economics and now computer science.
